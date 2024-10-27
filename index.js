@@ -1,2 +1,1 @@
-console.log("Hello world");
-console.log("Hello Git test");
+console.log("Hello world from git-learn  branch");
